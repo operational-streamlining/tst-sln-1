@@ -11,7 +11,7 @@
     <RepositoryUrl>https://github.com/op-st/tst-sln-1</RepositoryUrl>
     <AssemblyVersion>1.0.0</AssemblyVersion>
     <PackageId>OPST.TstSln1</PackageId>
-    <PackageVersion>1.0.3</PackageVersion>
+    <PackageVersion>1.0.4</PackageVersion>
     <Product>Testing</Product>
   </PropertyGroup>
 
