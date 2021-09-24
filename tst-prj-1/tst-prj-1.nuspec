@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>OPST.TstSln1</id>
+    <version>1.0.5</version>
+    <title>Test Solution 1</title>
+    <authors>OPST</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/op-st/tst-sln-1</projectUrl>
+    <repository url="https://github.com/op-st/tst-sln-1" />
+<!--    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>-->
+    <description>Test solution/project.</description>
+<!--    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>-->
+<!--    <copyright>Copyright ©2021</copyright>-->
+<!--    <tags>Tag1 Tag2</tags>-->
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Debug\net5.0\*.dll" target="lib\net5.0" />
+  </files>
+</package>

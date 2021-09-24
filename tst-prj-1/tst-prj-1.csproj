@@ -4,15 +4,6 @@
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>OPST.TstSln1</RootNamespace>
     <AssemblyName>OPST.TstPrj1</AssemblyName>
-    <Title>Test Solution 1</Title>
-    <Authors>OPST</Authors>
-    <Description>Test solution/project.</Description>
-    <Copyright>Copyright 2021</Copyright>
-    <RepositoryUrl>https://github.com/op-st/tst-sln-1</RepositoryUrl>
-    <AssemblyVersion>1.0.0</AssemblyVersion>
-    <PackageId>OPST.TstSln1</PackageId>
-    <PackageVersion>1.0.4</PackageVersion>
-    <Product>Testing</Product>
   </PropertyGroup>
 
 </Project>
