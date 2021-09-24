@@ -1,0 +1,1 @@
+dotnet pack tst-prj-1.csproj -p:NuspecFile=tst-prj-1.nuspec
